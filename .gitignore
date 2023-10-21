@@ -1,0 +1,9 @@
+spotlight/cmd
+spotlight/go.mod
+spotlight/go.sum
+spotlight/internal
+spotlight/pkg
+spotlight/tmp
+spotlight/.air.toml
+spotlight/tmp
+
