@@ -4,7 +4,7 @@
 
 - Leia o arquivo [BEM-VINDO.md](./BEM-VINDO.md)
 
-## Desáfios:
+## Desafios:
 
 1. [Spotlight](./spotlight/DesafioSpotlight.md)
 
